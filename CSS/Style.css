@@ -1,0 +1,150 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    color: crimson;
+    overflow: hidden;
+background:salmon;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 10px;
+    margin:17px;
+    color: cornflowerblue;
+}
+li a:hover{
+    background:olive;
+}
+th,td{
+    border: solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Century Schoolbook L";
+    background-color: deepskyblue;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+h2{
+    color: olivedrab;
+}
+p{
+    color: rebeccapurple;
+}
+.Fruits{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Century Schoolbook L";
+    background-color: deepskyblue;
+        text-align: center;
+}
+.FRUITS{
+       border: 10px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Century Schoolbook L";
+    background-color: deepskyblue;
+    padding: 10px;
+    text-align: center;
+
+}
+.cars{
+       border: solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Century Schoolbook L";
+    background-color: deepskyblue;
+    padding: 10px;
+        text-align: center;
+
+}
+.CARS{
+       border: solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Century Schoolbook L";
+    background-color: deepskyblue;
+    padding: 10px;
+        text-align: center;
+
+}
+.clothes{
+    border: solid cadetblue 5px;
+    padding: 20px;
+    margin: 20px;
+    font-family: "Century Schoolbook L";
+    background-color: salmon;
+    text-align: center;
+}
+form{
+margin: 50px;
+    background-color:burlywood ;
+    color: lightblue;
+    padding: 150px;
+    text-align: center;
+    font-family: "Century Schoolbook L";
+    font-size: 27px;
+    text-autospace: none;
+    width: max-content;
+    border: 5px solid chocolate;
+    margin-bottom: 10px;
+    position: center;
+    width: 65%;
+
+}
+label{
+    text-align: left;
+    text-end-overflow:10px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
